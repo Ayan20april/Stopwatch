@@ -1,9 +1,7 @@
 /* for interval */
 var stopwatch;
-
 /* for store the starting time */
 var startTime;
-
 /* track whether the stopwatch currently running */
 var running = false;
 
